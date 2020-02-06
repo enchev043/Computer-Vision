@@ -1,2 +1,3 @@
 # Computer-Vision
-Computer Vision with Java and openIMAJ
+
+Computer Vision projects with Java and openIMAJ.
